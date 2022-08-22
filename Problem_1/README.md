@@ -1,7 +1,6 @@
 Prerequisite -
 
-1. S3 bucket should needs to be created before executing the terraform code . Bucket name should be ""
-2. DynamoDB Table should needs to be created before executing the terraform code . Table name should be ""
+1. S3 bucket should needs to be created before executing the terraform code . Bucket name should be "Durianpay121"
 
 To create the infrastructure on the aws , run below commands 
 
